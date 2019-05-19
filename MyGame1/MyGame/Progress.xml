@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <records>
+    <Record>
+      <NumberOfStrokes>8</NumberOfStrokes>
+      <NumberOfPoints>1250</NumberOfPoints>
+      <Status>Is won</Status>
+    </Record>
+    <Record>
+      <NumberOfStrokes>0</NumberOfStrokes>
+      <NumberOfPoints>0</NumberOfPoints>
+      <Status>Is lost</Status>
+    </Record>
+  </records>
+</Config>

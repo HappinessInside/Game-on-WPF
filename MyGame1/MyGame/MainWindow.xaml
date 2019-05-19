@@ -1,0 +1,59 @@
+﻿<Window x:Class="MyGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyGame"
+        mc:Ignorable="d"
+        Title="MainMenu" Height="440" Width="600" Icon="/MyGame;component/Images/Cube.png">
+    <Grid>
+        <Image Source="/MyGame;component/Images/MainCow.png" SnapsToDevicePixels="False" Margin="0,-50,-3,-45"  />
+        <Button  Name="FirstGameBtn" Content="Start the game!"  FontFamily="Times New Roman" FontSize="13" RenderTransformOrigin="0.391,0.444"  Click="FirstGameBtn_Click" Margin="165,116,292,244">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-16.484"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="#FF2A4E6C" Offset="0.063"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FFCDCDCD" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button  Name="Rules" Content="The rules of the game"   FontFamily="Times New Roman" FontSize="13" RenderTransformOrigin="1.435,0.444" Click="Reference_Click" Margin="364,164,97,191">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="22.786"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="#FF2A4E6C" Offset="0.063"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FFCDCDCD" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button  Name="ExitBtn" Content="Exit"  FontFamily="Times New Roman" FontSize="13" RenderTransformOrigin="0.391,0.444" Click="ExitBtn_Click" Margin="260,185,202,175">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="#FF2A4E6C" Offset="0.063"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FFCDCDCD" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label Name="Welcome" Foreground="DeepSkyBlue" FontWeight="Bold" FontStyle="Italic" FontSize="18" Margin="160,15,77,350" />
+    </Grid>
+</Window>

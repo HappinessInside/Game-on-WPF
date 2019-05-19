@@ -1,0 +1,114 @@
+c:\users\user\documents\visual studio 2015\Projects\MyGame\MyGame\bin\Debug\MyGame.exe.config
+c:\users\user\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\BullsAndCows.g.cs
+c:\users\user\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\WhatIsInTheBox.g.cs
+c:\users\user\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\MyGame\MyGame\bin\Debug\MyGame.exe
+c:\users\user\documents\visual studio 2015\Projects\MyGame\MyGame\bin\Debug\MyGame.pdb
+c:\users\user\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\BullsAndCows.baml
+c:\users\user\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\WhatIsInTheBox.baml
+c:\users\user\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame.g.resources
+c:\users\user\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame.exe
+c:\users\user\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\MyGame\MyGame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+J:\MyGame\MyGame\obj\Debug\MyGame.exe
+J:\MyGame\MyGame\obj\Debug\MyGame.pdb
+J:\MyGame\MyGame\bin\Debug\MyGame.exe
+J:\MyGame\MyGame\bin\Debug\MyGame.pdb
+J:\MyGame\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+J:\MyGame\MyGame\obj\Debug\BullsAndCows.g.cs
+J:\MyGame\MyGame\obj\Debug\MainWindow.g.cs
+J:\MyGame\MyGame\obj\Debug\WhatIsInTheBox.g.cs
+J:\MyGame\MyGame\obj\Debug\App.g.cs
+J:\MyGame\MyGame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+J:\MyGame\MyGame\obj\Debug\MyGame_MarkupCompile.cache
+J:\MyGame\MyGame\obj\Debug\MyGame_MarkupCompile.lref
+J:\MyGame\MyGame\obj\Debug\BullsAndCows.baml
+J:\MyGame\MyGame\obj\Debug\MainWindow.baml
+J:\MyGame\MyGame\obj\Debug\WhatIsInTheBox.baml
+J:\MyGame\MyGame\obj\Debug\MyGame.g.resources
+J:\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+J:\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.Cache
+J:\MyGame\MyGame\obj\Debug\Records.g.cs
+J:\MyGame\MyGame\obj\Debug\Reference.g.cs
+J:\MyGame\MyGame\obj\Debug\Records.baml
+J:\MyGame\MyGame\obj\Debug\Reference.baml
+J:\MyGame\MyGame\bin\Debug\MyGame.exe.config
+J:\MyGame\MyGame\obj\Debug\Warning.g.cs
+J:\MyGame\MyGame\obj\Debug\Warning.baml
+C:\Users\user\Desktop\MyGame\MyGame\bin\Debug\MyGame.exe.config
+C:\Users\user\Desktop\MyGame\MyGame\obj\Debug\MyGame.exe
+C:\Users\user\Desktop\MyGame\MyGame\obj\Debug\MyGame.pdb
+C:\Users\user\Desktop\MyGame\MyGame\bin\Debug\MyGame.exe
+C:\Users\user\Desktop\MyGame\MyGame\bin\Debug\MyGame.pdb
+C:\Users\user\Desktop\MyGame\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\MyGame\MyGame\obj\Debug\BullsAndCows.g.cs
+C:\Users\user\Desktop\MyGame\MyGame\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\MyGame\MyGame\obj\Debug\Records.g.cs
+C:\Users\user\Desktop\MyGame\MyGame\obj\Debug\Reference.g.cs
+C:\Users\user\Desktop\MyGame\MyGame\obj\Debug\Warning.g.cs
+C:\Users\user\Desktop\MyGame\MyGame\obj\Debug\App.g.cs
+C:\Users\user\Desktop\MyGame\MyGame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\MyGame\MyGame\obj\Debug\MyGame_MarkupCompile.cache
+C:\Users\user\Desktop\MyGame\MyGame\obj\Debug\MyGame_MarkupCompile.lref
+C:\Users\user\Desktop\MyGame\MyGame\obj\Debug\BullsAndCows.baml
+C:\Users\user\Desktop\MyGame\MyGame\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\MyGame\MyGame\obj\Debug\Records.baml
+C:\Users\user\Desktop\MyGame\MyGame\obj\Debug\Reference.baml
+C:\Users\user\Desktop\MyGame\MyGame\obj\Debug\Warning.baml
+C:\Users\user\Desktop\MyGame\MyGame\obj\Debug\MyGame.g.resources
+C:\Users\user\Desktop\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+C:\Users\user\Desktop\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.Cache
+J:\MyGame1\MyGame\bin\Debug\MyGame.exe.config
+J:\MyGame1\MyGame\obj\Debug\MyGame.exe
+J:\MyGame1\MyGame\obj\Debug\MyGame.pdb
+J:\MyGame1\MyGame\bin\Debug\MyGame.exe
+J:\MyGame1\MyGame\bin\Debug\MyGame.pdb
+J:\MyGame1\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+J:\MyGame1\MyGame\obj\Debug\BullsAndCows.g.cs
+J:\MyGame1\MyGame\obj\Debug\MainWindow.g.cs
+J:\MyGame1\MyGame\obj\Debug\Records.g.cs
+J:\MyGame1\MyGame\obj\Debug\Reference.g.cs
+J:\MyGame1\MyGame\obj\Debug\Warning.g.cs
+J:\MyGame1\MyGame\obj\Debug\App.g.cs
+J:\MyGame1\MyGame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+J:\MyGame1\MyGame\obj\Debug\MyGame_MarkupCompile.cache
+J:\MyGame1\MyGame\obj\Debug\MyGame_MarkupCompile.lref
+J:\MyGame1\MyGame\obj\Debug\BullsAndCows.baml
+J:\MyGame1\MyGame\obj\Debug\MainWindow.baml
+J:\MyGame1\MyGame\obj\Debug\Records.baml
+J:\MyGame1\MyGame\obj\Debug\Reference.baml
+J:\MyGame1\MyGame\obj\Debug\Warning.baml
+J:\MyGame1\MyGame\obj\Debug\MyGame.g.resources
+J:\MyGame1\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+J:\MyGame1\MyGame\obj\Debug\MyGame.csproj.GenerateResource.Cache
+D:\MyGame1\MyGame\bin\Debug\MyGame.exe.config
+D:\MyGame1\MyGame\bin\Debug\MyGame.exe
+D:\MyGame1\MyGame\bin\Debug\MyGame.pdb
+D:\MyGame1\MyGame\obj\Debug\MyGame.csprojAssemblyReference.cache
+D:\MyGame1\MyGame\obj\Debug\BullsAndCows.g.cs
+D:\MyGame1\MyGame\obj\Debug\MainWindow.g.cs
+D:\MyGame1\MyGame\obj\Debug\Records.g.cs
+D:\MyGame1\MyGame\obj\Debug\Reference.g.cs
+D:\MyGame1\MyGame\obj\Debug\Warning.g.cs
+D:\MyGame1\MyGame\obj\Debug\App.g.cs
+D:\MyGame1\MyGame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\MyGame1\MyGame\obj\Debug\MyGame_MarkupCompile.cache
+D:\MyGame1\MyGame\obj\Debug\MyGame_MarkupCompile.lref
+D:\MyGame1\MyGame\obj\Debug\BullsAndCows.baml
+D:\MyGame1\MyGame\obj\Debug\MainWindow.baml
+D:\MyGame1\MyGame\obj\Debug\Records.baml
+D:\MyGame1\MyGame\obj\Debug\Reference.baml
+D:\MyGame1\MyGame\obj\Debug\Warning.baml
+D:\MyGame1\MyGame\obj\Debug\MyGame.g.resources
+D:\MyGame1\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+D:\MyGame1\MyGame\obj\Debug\MyGame.csproj.GenerateResource.cache
+D:\MyGame1\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+D:\MyGame1\MyGame\obj\Debug\MyGame.exe
+D:\MyGame1\MyGame\obj\Debug\MyGame.pdb

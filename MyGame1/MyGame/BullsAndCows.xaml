@@ -1,0 +1,69 @@
+﻿<Window x:Class="MyGame.BullsAndCows"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MyGame"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="BullsAndCows" Height="500" Width="500" Icon="/MyGame;component/Images/Cow.png" Closing ="FirstGame_Closing">
+    <Grid Name="GameGrid">
+
+        <Image Source="/MyGame;component/Images/BackGround2.png" Margin="-155,-10,-153,-20" />
+        <Image Source="/MyGame;component/Images/Cow1.png" Margin="-35,65,317,285"  />
+        <Image Source="/MyGame;component/Images/Cow2.png" Name="Cow2" Margin="-15,65,327,275" Opacity="0"/>
+        <Button Name="OpacityBtn" Opacity="0" Margin="25,70,377,300"  Click="OpacityBtn_Click"/>
+
+        <Image Source="/MyGame;component/Images/Stand1.png" Margin="135,400,257,-5" />
+        <Image Source="/MyGame;component/Images/Stand1.png" Margin="15,400,377,-5" />
+        <Image Source="/MyGame;component/Images/Stand1.png" Margin="250,400,142,-5" />
+        <Image Source="/MyGame;component/Images/Stand1.png" Margin="370,400,22,-5" />
+
+        <Menu FontSize="16" Padding="10" Margin="0,0,-3,415" >
+            <MenuItem Header="New game" Click="NewGame_Click" />
+            <MenuItem Header="Progress"  Click="Progress_Click" />
+            <MenuItem Header="Reference"  Click="Reference_Click"/>
+        </Menu>
+
+        <local:ImageOfBall x:Name="B3" Source="/MyGame;component/Images/red-ball0.png" Margin="270,385,162,30" AllowDrop="True" Drop="Target" Opacity="0" number="-1"/>
+        <local:ImageOfBall x:Name="B4" Source="/MyGame;component/Images/red-ball0.png" Margin="385,385,42,30" AllowDrop="True" Drop="Target"  Opacity="0" number="-1"/>
+        <local:ImageOfBall x:Name="B2" Source="/MyGame;component/Images/red-ball0.png" Margin="155,385,277,30" AllowDrop="True" Drop="Target" Opacity="0" number="-1" />
+        <local:ImageOfBall x:Name="B1" Source="/MyGame;component/Images/red-ball0.png" Margin="35,380,397,25" AllowDrop="True" Drop="Target"  Opacity="0" number="-1"/>
+
+        <local:ImageOfBall x:Name="Ball2" Source="/MyGame;component/Images/red-ball2.png" Margin="415,225,12,180" number="2" AllowDrop="True" Drop="Target" initialSourse="/MyGame;component/Images/red-ball2.png" initialNumber="2"/>
+        <local:ImageOfBall x:Name="Ball4" Source="/MyGame;component/Images/red-ball4.png" Margin="415,115,12,285" number="4" AllowDrop="True" Drop="Target" initialSourse="/MyGame;component/Images/red-ball4.png" initialNumber="4"/>
+        <local:ImageOfBall x:Name="Ball0" Source="/MyGame;component/Images/red-ball0.png" Margin="355,120,72,290" number="0" AllowDrop="True" Drop="Target" initialSourse="/MyGame;component/Images/red-ball0.png" initialNumber="0"/>
+        <local:ImageOfBall x:Name="Ball6" Source="/MyGame;component/Images/red-ball6.png" Margin="355,65,72,345" number="6"  AllowDrop="True" Drop="Target" initialSourse="/MyGame;component/Images/red-ball6.png" initialNumber="6"/>
+        <local:ImageOfBall x:Name="Ball8" Source="/MyGame;component/Images/red-ball8.png" Margin="230,65,197,345" number="8" AllowDrop="True" Drop="Target" initialSourse="/MyGame;component/Images/red-ball8.png" initialNumber="8"/>
+        <local:ImageOfBall x:Name="Ball1" Source="/MyGame;component/Images/red-ball1.png" Margin="415,285,12,120" number="1" AllowDrop="True" Drop="Target" initialSourse="/MyGame;component/Images/red-ball1.png" initialNumber="1"/>
+        <local:ImageOfBall x:Name="Ball3" Source="/MyGame;component/Images/red-ball3.png" Margin="415,170,12,230" number="3" AllowDrop="True" Drop="Target" initialSourse="/MyGame;component/Images/red-ball3.png" initialNumber="3"/>
+        <local:ImageOfBall x:Name="Ball5" Source="/MyGame;component/Images/red-ball5.png" Margin="415,65,12,345" number="5" AllowDrop="True" Drop="Target"  initialSourse="/MyGame;component/Images/red-ball5.png" initialNumber="5"/>
+        <local:ImageOfBall x:Name="Ball7" Source="/MyGame;component/Images/red-ball7.png" Margin="295,65,132,345" number="7" AllowDrop="True" Drop="Target" initialSourse="/MyGame;component/Images/red-ball7.png" initialNumber="7"/>
+        <local:ImageOfBall x:Name="Ball9" Source="/MyGame;component/Images/red-ball9.png" Margin="165,65,262,345" number="9" AllowDrop="True" Drop="Target" initialSourse="/MyGame;component/Images/red-ball9.png" initialNumber="9"/>
+
+        <TextBox Name="TableOfResults" Margin="120,175,140,100" IsReadOnly="True" VerticalScrollBarVisibility="Auto" TextWrapping="Wrap" TextDecorations="" Foreground="DarkGreen"  BorderBrush="Gold" Background="#FFBCDCA5" TextAlignment="Center" FontSize="14" Cursor="" FontWeight="Bold"  />
+        <Image   Source="/MyGame;component/Images/Kolokol.png" Margin="100,160,352,250"/>
+        <Image   Source="/MyGame;component/Images/Kolokol.png" Margin="100,340,352,70"/>
+        <Image   Source="/MyGame;component/Images/Kolokol.png" Margin="325,340,127,70" RenderTransformOrigin="0.958,0.477">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-46.094"/>
+                    <TranslateTransform X="-7.933" Y="-13.773"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image   Source="/MyGame;component/Images/Kolokol.png" Margin="325,160,127,250" RenderTransformOrigin="0.958,0.477">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-47.526"/>
+                    <TranslateTransform X="-7.933" Y="-13.773"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        
+    </Grid>
+</Window>
